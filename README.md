@@ -8,4 +8,5 @@ Learning FastAPI and API with python
  * Create Project with FastAPI and PostgreSQL
 
 Resrouces:
+
 [https://www.youtube.com/watch?v=tLKKmouUams]
