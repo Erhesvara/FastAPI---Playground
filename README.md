@@ -10,4 +10,4 @@ Learning FastAPI and API with python
 ### Resrouces:
 
 [https://www.youtube.com/watch?v=tLKKmouUams]
-[[[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)]](https://fastapi.tiangolo.com/)https://fastapi.tiangolo.com/
+[https://fastapi.tiangolo.com/]
