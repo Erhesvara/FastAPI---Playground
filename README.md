@@ -14,3 +14,5 @@ Learning FastAPI and API with python
 * [https://fastapi.tiangolo.com/]
 
 * [https://www.postgresql.org/]
+
+_Also study the docs page to page for refference_
