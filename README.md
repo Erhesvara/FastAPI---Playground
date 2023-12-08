@@ -7,6 +7,7 @@ Learning FastAPI and API with python
  * Learn SQL Database (postgresql)
  * Create Project with FastAPI and PostgreSQL
 
-Resrouces:
+### Resrouces:
 
 [https://www.youtube.com/watch?v=tLKKmouUams]
+[[[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)]](https://fastapi.tiangolo.com/)https://fastapi.tiangolo.com/
