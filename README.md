@@ -1,6 +1,8 @@
 # FastAPI---Playground
 
-Learning FastAPI and API with python
+Learning FastAPI and API with python 
+
+Serves as a playground for trials and errors
 
  ### Goal: 
  * Learn FastAPI
