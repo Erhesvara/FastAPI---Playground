@@ -18,3 +18,12 @@ Serves as a playground for trials and errors
 * [https://www.postgresql.org/]
 
 _Also study the docs page to page for refference_
+
+## Roadmap
+
+- [x] Chapter 6 learning
+- [ ] Finish the tutorials
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Finish Readme "contributions"
+- [ ] Finish readme "built with" and add photo
+- [ ] Finish acknowledgement 
