@@ -22,7 +22,7 @@ _Also study the docs page to page for refference_
 ## Roadmap
 
 - [x] 
-- [ ] Finish the tutorial
+- [ ] Finish the tutorials
 - [ ] Create a first API
 - [ ] Practice and Learn the codes
 - [ ] Trial and Error
