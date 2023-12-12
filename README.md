@@ -27,4 +27,4 @@ _Also study the docs page to page for refference_
 - [ ] create my first API
 - [ ] practice and undestand the codes process
 - [ ] Trial and Error
-- [ ] Create a own project
+- [ ] transition on creating my own project
