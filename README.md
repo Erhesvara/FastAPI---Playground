@@ -21,7 +21,7 @@ _Also study the docs page to page for refference_
 
 ## Roadmap
 
-- [x] 
+- [x] roadmap
 - [ ] Finish the tutorials
 - [ ] download and setup fastAPI & Uvicorn
 - [ ] create my first API
