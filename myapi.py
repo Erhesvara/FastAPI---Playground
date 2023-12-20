@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Path, Query
+from typing import Optional
 
 app = FastAPI()
 
@@ -19,7 +20,7 @@ def get_student(student_id: int = Path(..., description="The ID of the student y
     return students[student_id]
 
 @app.get("/get-by-name")
-def get_student(name: str = Query(..., description="Name of the student to search for")):
+def get_student(*, name: Optional[str] = Query(..., description="Name of the student to search for")):
     for student_id in students:
         if students[student_id]["name"] == name:
             return students[student_id]
