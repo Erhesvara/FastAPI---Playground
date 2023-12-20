@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Path
 
 app = FastAPI()
 
@@ -15,5 +15,5 @@ def index():
     return {"name": "First Data"}
 
 @app.get("/get-student/{student_id}")
-def get_student(student_id: int):
+def get_student(student_id: int = Path(None, description="The ID of the student you want to view")):
     return students[student_id]
