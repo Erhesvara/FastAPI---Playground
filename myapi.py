@@ -15,5 +15,6 @@ def index():
     return {"name": "First Data"}
 
 @app.get("/get-student/{student_id}")
-def get_student(student_id: int = Path(..., description="The ID of the student you want to view")):
+def get_student(student_id: int = Path(..., description="The ID of the student you want to view", gt=0, )):
     return students[student_id]
+
