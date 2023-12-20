@@ -18,3 +18,9 @@ def index():
 def get_student(student_id: int = Path(..., description="The ID of the student you want to view", gt=0, )):
     return students[student_id]
 
+@app.get("/get-by-name")
+def get_student(name: str):
+    for student_id in students:
+        if students[student_id]["name"] == name:
+            return students[student_id]
+    return {"Data": "Not found"}
