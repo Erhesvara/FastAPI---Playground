@@ -26,14 +26,14 @@ def get_student(student_id: int = Path(..., description="The ID of the student y
     return students[student_id]
 
 @app.get("/get-by-name/{student_id}")
-def get_student(*, student_id: int, name: Optional[str] = Query(..., description="Name of the student to search for")):
+def get_student(*, name: Optional[str] = Query(..., description="Name of the student to search for")):
     for student_id in students:
         if students[student_id]["name"] == name:
             return students[student_id]
     return {"Data": "Not found"}
 
 @app.post("/create-student/{student_id}")
-def create_student(student_id: int, student : Student):
+def create_student(student_id: int, student: Student):
     if student_id in students:
         return {"Error": "Student Already Exists"}
 
