@@ -23,7 +23,7 @@ _Also study the docs page to page for refference_
 
 - [x] roadmap
 - [x] Finish the tutorials
-- [ ] download and setup fastAPI & Uvicorn
+- [x] download and setup fastAPI & Uvicorn
 - [ ] create my first API
 - [ ] practice and undestand the codes process
 - [ ] Trial and Error
