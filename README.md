@@ -25,6 +25,6 @@ _Also study the docs page to page for refference_
 - [x] Finish the tutorials
 - [x] download and setup fastAPI & Uvicorn
 - [x] create my first API
-- [ ] practice and undestand the codes process
+- [x]  practice and undestand the codes process
 - [ ] Trial and Error
 - [ ] transition to creating my own project
