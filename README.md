@@ -28,4 +28,4 @@ _Also study the docs page to page for refference_
 - [x]  practice and undestand the codes process
 - [x] Trial and Error
 - [x] transition to creating my own project
-  
+ 
