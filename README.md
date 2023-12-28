@@ -21,10 +21,11 @@ _Also study the docs page to page for refference_
 
 ## Roadmap
 
-- [x] roadmap
+ roadmap
 - [x] Finish the tutorials
-- [ ] download and setup fastAPI & Uvicorn
-- [ ] create my first API
-- [ ] practice and undestand the codes process
-- [ ] Trial and Error
-- [ ] transition to creating my own project
+- [x] download and setup fastAPI & Uvicorn
+- [x] create my first API
+- [x]  practice and undestand the codes process
+- [x] Trial and Error
+- [x] transition to creating my own project
+ 
